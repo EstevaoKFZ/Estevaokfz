@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Back-end:** C#, .NET Framework, Node.js  
+- **Back-end:** C#, Java, .NET Framework, Node.js  
 - **Banco de Dados:** SQL Server, MySQL, SQLite  
 - **Front-end básico:** HTML, CSS, JavaScript  
 - **IA & Dados:** Python (Pandas, NumPy, fundamentos de Machine Learning)  
