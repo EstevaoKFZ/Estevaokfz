@@ -24,18 +24,7 @@ Acredito que um bom profissional de dados se destaca quando entende como o softw
 
 ---
 
-### 📂 Projetos em Destaque
-
-#### 📊 Business Intelligence & Dados
-* [**Análise de Vendas - Indústria de Chocolates**](./portfolio-powerbi-chocolate): Dashboard de nível executivo focado no monitoramento de faturamento comercial, performance por regiões e inteligência de tempo para análise de crescimento anual.
-
-#### 💻 Engenharia de Software & Backend
-* [**picpay-desafio-backend**](./picpay-desafio-backend): Resolução de um desafio de arquitetura backend simulando um sistema de transações financeiras simplificado.
-* [**taskManager API**](./taskManager_API): Desenvolvimento de uma API estruturada para o controle dinâmico e organização de fluxos de tarefas.
-
----
-
 ### 📬 Vamos nos conectar?
 
 * **LinkedIn:** [linkedin.com/in/estevaokfz](https://www.linkedin.com/in/estevaokfz)
-* **E-mail:** estevaokf@outlook.com
+* **E-mail:** estevaokf@gmail.com
